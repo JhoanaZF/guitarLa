@@ -6,7 +6,7 @@ Este proyecto te guiará a través del proceso de creación de una API utilizand
 
 ![guitarras](https://www.musicnexo.com/blog/wp-content/uploads/2023/05/portada1-1024x542.png)
 
-## Tecnologias
+## Tecnologías
 
 - Strapi CMS
 - PostgreSQL
